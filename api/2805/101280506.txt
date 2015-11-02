@@ -1,0 +1,1 @@
+window.Ylmf.getWeather({"weatherinfo":false})
